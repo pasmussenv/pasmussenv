@@ -19,18 +19,18 @@ Y algo muy importante:
 
 
 
-## 💭 Filosofía personal
+##  Filosofía personal
 
 Mi forma de trabajar está marcada por cuatro valores clave:
 
-- 🧭 Orden y claridad: tanto en código como en estructura.  
-- 📚 Pasión por aprender: cada proyecto es una oportunidad para crecer.  
-- 🎯 Respeto por el detalle: lo mínimo cuenta.  
-- 🤝 Vocación por compartir: disfruto enseñando y colaborando.
+-  Orden y claridad: tanto en código como en estructura.  
+-  Pasión por aprender: cada proyecto es una oportunidad para crecer.  
+-  Respeto por el detalle: lo mínimo cuenta.  
+-  Vocación por compartir: disfruto enseñando y colaborando.
 
 
 
-## 🛠️ Tecnologías con las que trabajo
+##  Tecnologías con las que trabajo
 
 Durante mi formación en ASIR y mis prácticas como DevOps junior, he trabajado con herramientas y entornos reales de uso profesional.
 
@@ -52,7 +52,7 @@ Algunas tareas que ya comienzo a manejar con confianza:
 
 
 
-## 📚 Conocimientos complementarios
+##  Conocimientos complementarios
 
 - Redes (IP, DNS, NAT, DHCP…), administración de usuarios, resolución de incidencias en entornos híbridos.  
 - Asistencia remota con **TeamViewer**.    
@@ -64,21 +64,21 @@ Algunas tareas que ya comienzo a manejar con confianza:
 
 
 
-## 🌱 Mi objetivo
+##  Mi objetivo
 
 Seguir creciendo como profesional en el mundo **DevOps** y ampliar mis conocimientos hacia otras áreas como el desarrollo backend o frontend.  
 Quiero comprender el sistema completo: desde el servidor hasta la interfaz. Me entusiasma la idea de colaborar con equipos donde pueda aportar soluciones útiles, eficientes y con una visión global.
 
 
 
-## 🔤 Idiomas
+##  Idiomas
 
 - Español (nativo)  
 - Italiano (avanzado)  
 - Inglés técnico (documentación, comandos, interfaces)
 
 
-## 📁 Mis proyectos
+##  Mis proyectos
 Aquí encontrarán ejemplos reales de lo que me apasiona: construir entornos funcionales, automatizar procesos, documentar con claridad, crear guías de usuario y seguir aprendiendo con cada paso.
 
 ### 🐳 Infraestructuras Dockerizadas
