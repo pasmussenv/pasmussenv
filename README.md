@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pasmussenv/GAIA/blob/main/assets/portada-readme-y-logo-gaia/banner-readme-gaia.png" alt="Banner de portada GAIA" width="100%">
+  <img src="https://raw.githubusercontent.com/pasmussenv/pasmussenv/main/assets/portada-readme-y-logo-gaia/logo-gaia-banner.png" alt="Banner de portada GAIA" width="100%">
 </p>
 
 ## Bienvenid@s a mi repositorio
@@ -81,4 +81,4 @@ Quiero comprender el sistema completo: desde el servidor hasta la interfaz. Me e
 
 ---
 
- 🫆<img src="https://github.com/pasmussenv/GAIA/blob/main/assets/portada-readme-y-logo-gaia/gaia-matcha-logo.png?raw=true" alt="GAIA firma" width="60">
+ 🫆<img src="https://raw.githubusercontent.com/pasmussenv/pasmussenv/main/assets/portada-readme-y-logo-gaia/gaia-matcha-logo.png" alt="GAIA firma" width="60">
