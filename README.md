@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pasmussenv/pasmussenv/main/assets/portada-readme-y-logo-gaia/logo-gaia-banner.png" alt="Banner de portada GAIA" width="100%">
+  <img src="https://raw.githubusercontent.com/pasmussenv/pasmussenv/main/assets/portada-readme-y-logo-gaia/banner-readme-gaia.png" alt="Banner de portada GAIA" width="100%">
 </p>
 
 ## Bienvenid@s a mi repositorio
@@ -77,6 +77,26 @@ Quiero comprender el sistema completo: desde el servidor hasta la interfaz. Me e
 - Italiano (avanzado)  
 - Inglés técnico (documentación, comandos, interfaces)
 
+
+## 📁 Mis proyectos
+Aquí encontrarán ejemplos reales de lo que me apasiona: construir entornos funcionales, automatizar procesos, documentar con claridad, crear guías de usuario y seguir aprendiendo con cada paso.
+
+### 🐳 Infraestructuras Dockerizadas
+
+- **Symfony + Drupal**  
+  Arquitectura multi-contenedor con Nginx, PHP-FPM, MySQL y gestión avanzada de volúmenes y redes. Preparada para desarrollo y producción.
+
+- **Symfony + Angular**  
+  Backend y frontend desacoplados, desplegados con Docker Compose, enlazados vía API, y servidos con Nginx. Incluye scripts de build y despliegue.
+
+### [⚙️ Scripts de automatización](https://github.com/pasmussenv/Herramientas-automatizadas/tree/main)
+
+-  [install-drupal-by-gaia.sh](https://github.com/pasmussenv/Herramientas-automatizadas/tree/main/drupal):  
+Script en Bash para instalar Drupal desde cero en sistemas Linux. Instala Composer, dependencias PHP, estructura de carpetas y permisos.  
+→ Diseñado para ahorrar tiempo, evitar errores y aprender del proceso.
+
+
+> _Todos mis proyectos están documentados en GitHub y pensados para ser reutilizables y claros, tanto para compañeros como para futuras versiones._
 
 
 ---
