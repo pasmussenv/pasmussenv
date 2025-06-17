@@ -83,6 +83,10 @@ Aquí encontrarán ejemplos reales de lo que me apasiona: construir entornos fun
 
 ### 🐳 Infraestructuras Dockerizadas
 
+- [**Moodle Project**](https://gitlab.com/devgaia/moodle-project)
+
+
+   Plataforma e-learning dockerizada desarrollada durante mis prácticas como DevOps en CodeArts Solutions. Arquitectura con Docker Compose (MariaDB, Moodle y Nginx), integración  CI/CD en GitLab, automatización de backups y restauraciones con scripts Bash, validación en entorno temporal y configuración preparada para producción con HTTPS.
 - **Symfony + Drupal**  
   Arquitectura multi-contenedor con Nginx, PHP-FPM, MySQL y gestión avanzada de volúmenes y redes. Preparada para desarrollo y producción.
 
