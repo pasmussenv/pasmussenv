@@ -92,7 +92,8 @@ Aquí encontrarán ejemplos reales de lo que me apasiona: construir entornos fun
   
   Arquitectura multi-contenedor con Nginx, PHP-FPM, MySQL y gestión avanzada de volúmenes y redes. Preparada para desarrollo y producción.
 
-- **Symfony + Angular**  
+- [**Symfony + Angular**](https://github.com/pasmussenv/infra-symfony-angular)
+  
   Backend y frontend desacoplados, desplegados con Docker Compose, enlazados vía API, y servidos con Nginx. Incluye scripts de build y despliegue.
 
 ### [⚙️ Scripts de automatización](https://github.com/pasmussenv/Herramientas-automatizadas/tree/main)
